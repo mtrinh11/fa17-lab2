@@ -1,0 +1,2 @@
+class PokemonController < ApplicationRecord
+end
